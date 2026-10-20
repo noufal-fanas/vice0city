@@ -1,2 +1,1 @@
-SPN-CBC[4] (first 2B=IV) -> p[544 MSBs]
-Coppersmith(N=kind[1], e=kind[2]) -> decrypt kind[3]
+Archived.
